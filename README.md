@@ -1,0 +1,2 @@
+# Average_of_6_frequencies
+Average_of_6_frequencies
